@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #b8c6db;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+.App {
+  background-color: #fff;
+  width: 600px;
+  margin: auto;
+  border-radius: 10px;
+  height: 432px;
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+}
+.button {
+  text-align: center;
+}
